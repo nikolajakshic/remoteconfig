@@ -1,0 +1,7 @@
+# ignore EVERYTHING by default
+/*
+
+# don't ignore
+!/vigil*.apk
+!/vigil-config.json
+!/.gitignore
