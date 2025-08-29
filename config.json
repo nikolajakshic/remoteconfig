@@ -1,5 +1,5 @@
 {
-  "versionCode": 12,
-  "abi64url": "https://github.com/nikolajakshic/remoteconfig/raw/refs/heads/main/app-arm64_v8a-debug.apk",
-  "abi32url": "google.com"
+  "versionCode": 0,
+  "abi64url": "",
+  "abi32url": ""
 }
