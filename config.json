@@ -1,5 +1,5 @@
 {
-  "versionCode": 1,
-  "abi64url": "https://raw.githubusercontent.com/nikolajakshic/remoteconfig/refs/heads/main/app-arm64_v8a-release.apk",
-  "abi32url": "https://raw.githubusercontent.com/nikolajakshic/remoteconfig/refs/heads/main/app-armeabi_v7a-release.apk"
+  "versionCode": 2,
+  "abi64url": "https://raw.githubusercontent.com/nikolajakshic/remoteconfig/refs/heads/main/vigil64.apk",
+  "abi32url": "https://raw.githubusercontent.com/nikolajakshic/remoteconfig/refs/heads/main/vigil32.apk"
 }
